@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @holuwateemeeleyin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Timi Ajiboye
+- 👀 I’m interested in Automation, Devops and Platform Engineering
+- 🌱 I’m currently learning Golang and Devops tools
+- 💞️ I’m looking to collaborate on anything relating to Platform engineering
+- 📫 You can reach me at abegundeosamuel@gmail.com
 
 <!---
 holuwateemeeleyin/holuwateemeeleyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
