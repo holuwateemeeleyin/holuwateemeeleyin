@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Timileyin Ajiboye
-- 👀 I’m an Automation specialist, interested in Devops and Platform Engineering
+- 👋 Hi, I’m Timi Ajiboye
+- 👀 I’m an Automation specialist, interested in Devops, SRE and Platform Engineering
 - 🌱 I’m currently learning Golang and Devops tools
 - 💞️ I’m looking to collaborate on anything relating to Automation or Platform engineering
 - 📫 You can reach me at abegundeosamuel@gmail.com
