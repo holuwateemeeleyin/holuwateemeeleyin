@@ -19,8 +19,7 @@ I’m passionate about building resilient systems and automating away the toil. 
 
 ### 📫 Let's Connect
 * 📧 Email: [oluwatimileyinsamajiboye@gmail.com](mailto:oluwatimileyinsamajiboye@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/oluwatimileyin/)
-* 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=holuwateemeeleyin&theme=dark)](https://git.io/streak-stats)
 
 
