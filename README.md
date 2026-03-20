@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Timi Ajiboye
+# 👋 Hi, I’m Timileyin Ajiboye
 
 **DevOps | SRE | Platform Engineer**
 
