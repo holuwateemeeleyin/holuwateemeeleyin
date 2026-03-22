@@ -2,12 +2,12 @@
 
 **DevOps | SRE | Platform Engineer**
 
-I’m passionate about building resilient systems and automating away the toil. Currently, I'm deep-diving into the world of Cloud Native and Go.
+I am passionate about building resilient systems and automating away the toil. Currently, I'm deep-diving into the world of Cloud Native and Go.
 
 ---
 
 ### 🚀 What I'm Up To
-* 🌱 **Learning:** Golang, Docker, and Kubernetes (CKA/CKAD path).
+* 🌱 **Learning:** Golang, Docker, and Kubernetes (CKA/CKAD path).    
 * 💞️ **Collaboration:** Open to projects involving Automation, CI/CD pipelines, or SRE tooling.
 * 🔭 **Goal:** Building scalable, self-healing infrastructure.
 
