@@ -7,7 +7,7 @@ I am passionate about building resilient systems and automating away the toil. C
 ---
 
 ### 🚀 What I'm Up To
-* 🌱 **Learning:** Golang, Docker, and Kubernetes (CKA/CKAD path).    
+* 🌱 **Learning:** Bash, Golang, Docker, and Kubernetes (CKA/CKAD path).    
 * 💞️ **Collaboration:** Open to projects involving Automation, CI/CD pipelines, or SRE tooling.
 * 🔭 **Goal:** Building scalable, self-healing infrastructure.
 
