@@ -1,29 +1,27 @@
 # 👋 Hi, I’m Timileyin Ajiboye
 
-**DevOps | SRE | Platform Engineer**
+**Site Reliability Engineer | Platform Engineer | DevOps**
 
-I am passionate about building resilient systems and automating away the toil. Currently, I'm deep-diving into the world of Cloud Native and Go.
+I specialize in building resilient systems and automating away the toil. I am passionate about Cloud Native technologies, container orchestration, and simplifying infrastructure concepts.
 
 ---
 
 ### 🚀 What I'm Up To
-* 🌱 **Learning:** Bash, Golang, Docker, and Kubernetes (CKA/CKAD path).    
-* 💞️ **Collaboration:** Open to projects involving Automation, CI/CD pipelines, or SRE tooling.
-* 🔭 **Goal:** Building scalable, self-healing infrastructure.
+* 🏗 **Microservices:** Architecting and deploying containerized applications like **ShopMicro**.
+* ⚙️ **CI/CD:** Automating workflows using GitHub Actions to streamline deployments.
+* 🌱 **Learning:** Deep-diving into Golang for systems programming, CI/CD, Docker and the Kubernetes (CKA/CKAD) path.
 
-### 🛠 Tech Stack (Current & Growing)
+### 🛠 Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📫 Let's Connect
-* 📧 Email: [oluwatimileyinsamajiboye@gmail.com](mailto:oluwatimileyinsamajiboye@gmail.com)
+* **Email:** [oluwatimileyinsamajiboye@gmail.com](mailto:oluwatimileyinsamajiboye@gmail.com)
+* **Linkedin:** https://www.linkedin.com/in/oluwatimileyin/
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=holuwateemeeleyin&theme=dark)](https://git.io/streak-stats)
-
-
-<!---
-holuwateemeeleyin/holuwateemeeleyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
