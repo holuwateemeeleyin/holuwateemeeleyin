@@ -10,6 +10,7 @@ I specialize in building resilient systems and automating away the toil. I am pa
 * 🏗 **Microservices:** Architecting and deploying containerized applications like **ShopMicro**.
 * ⚙️ **CI/CD:** Automating workflows using GitHub Actions to streamline deployments.
 * 🌱 **Learning:** Deep-diving into Golang for systems programming, CI/CD, Docker and the Kubernetes (CKA/CKAD) path.
+* **Exam:** Currently preparing for KCNA Exam
 
 ### 🛠 Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) 
